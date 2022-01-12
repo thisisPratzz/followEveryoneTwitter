@@ -32,4 +32,6 @@ for (var i = 0; i < aTags.length; i++) {
 scroll down a little let new following load reapeat  step 4 
 
 
-note twitter block our attempt to follow after certain number of follow requests 
+note twitter block our attempt to follow after certain number of follow requests
+per day max you can follow 400 accounts 
+https://help.twitter.com/en/using-twitter/twitter-follow-limit
