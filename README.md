@@ -1,8 +1,8 @@
 # followEveryoneTwitter
-automaticallfollowEveryoneTwitter
+automatically follow Everyone Twitter
 
 
-1.go to https://twitter.com/{put the username here of the person you want to follow }/following
+1.go to https://twitter.com/ {put the username here of the person you want to follow }/following
 
 for eg. https://twitter.com/Pratik_the_king/following
 
