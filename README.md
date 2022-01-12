@@ -8,7 +8,7 @@ for eg. https://twitter.com/Pratik_the_king/following
 
 
 
-2.open developer tools by pressing CNTRL + SHIFT +I 
+2.open developer tools by pressing CNTRL + SHIFT + I 
 3.Click on console tab 
 4.Paste the following code 
 
